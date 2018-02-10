@@ -1,7 +1,9 @@
 # CardHeatmap
 
 This add on adds a heatmap of your card intervals in the statistics window.
+
 <img src="https://github.com/ChrisK91/CardHeatmap/raw/master/screenshots/screenshot1.png">
+
 <img src="https://github.com/ChrisK91/CardHeatmap/raw/master/screenshots/screenshot2.png">
 
 This is the first add on I have written, so please report any bugs on GitHub: https://github.com/ChrisK91/CardHeatmap/issues
