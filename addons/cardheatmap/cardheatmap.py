@@ -10,6 +10,7 @@ import time
 import aqt
 from aqt.qt import *
 from aqt import mw
+from aqt.utils import tooltip
 
 from anki.stats import CollectionStats
 from anki.hooks import wrap, addHook
